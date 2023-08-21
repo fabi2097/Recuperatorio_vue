@@ -90,6 +90,7 @@ export default {
                 await employeeService.addEmployee(employee);
             }
             this.fetchEmployees();
+            this.selectedEmployee = {};
         },
         async fetchEmployees() {
             this.employees = await employeeService.getEmployees();
