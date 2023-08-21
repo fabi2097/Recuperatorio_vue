@@ -1,0 +1,79 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "producción"
+    },
+    {
+      "name": "limpieza",
+      "id": 3
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "automóvil"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Roberto Escalante Arias",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "rojo",
+      "placa": "uht2312"
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692580031140,
+      "id": 3
+    },
+    {
+      "name": "Pedrp",
+      "areasId": 1,
+      "typesId": 1,
+      "placa": "134",
+      "color": "rojo",
+      "id": 4
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692580080667,
+      "id": 5
+    },
+    {
+      "name": "jose",
+      "areasId": 1,
+      "typesId": 1,
+      "placa": "12312",
+      "color": "amarillo",
+      "id": 6
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692580517383,
+      "id": 7
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692580723551,
+      "id": 9
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692586096529,
+      "id": 11
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692586118145,
+      "id": 13
+    },
+    {
+      "isTrusted": true,
+      "_vts": 1692586462011,
+      "id": 14
+    }
+  ]
+}
